@@ -14,15 +14,13 @@
 
 另外，这个项目和慕课网视频的那个饿了么没有任何关系，慕课网的项目只有一个页面，我在看完vue的官方文档后直接写了这个项目，没有参照任何人的代码，请大家不要混为一谈。
 
-__注1：此项目纯属个人瞎搞，正常下单请选择饿了么官方客户端。__
+**注1：此项目纯属个人瞎搞，正常下单请选择饿了么官方客户端。**
 
-__注2：项目预览地址和接口需要使用https访问哦！__
-
+**注2：项目预览地址和接口需要使用https访问哦！**
 
 ## 技术栈
 
 vue2 + vuex + vue-router + webpack + ES6/7 + fetch + sass + flex + svg
-
 
 ## 项目运行
 
@@ -38,6 +36,7 @@ npm install 或 yarn(推荐)
 npm run dev
 
 ```
+
 ## 关于接口数据
 
 此项目的所有接口数据都来源于配套的后台系统，[后台项目传送地址](https://github.com/bailicangdu/node-elm)。
@@ -50,25 +49,23 @@ npm run dev
 
 如果只做前端开发，请忽略上面这几句话哟～
 
-
 # 说明
 
->  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
+> 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^\_^
 
->  或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
+> 或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
 
->  开发环境 macOS 10.12.3  Chrome 56  nodejs 6.10.0
+> 开发环境 macOS 10.12.3 Chrome 56  nodejs 6.10.0
 
->  特别感谢[@bailichen](https://github.com/bailichen), [@iceRao](https://github.com/raoenhui)，在百忙之中抽出时间和我一起完成了这个项目，辛苦了🌹
+> 特别感谢[@bailichen](https://github.com/bailichen), [@iceRao](https://github.com/raoenhui)，在百忙之中抽出时间和我一起完成了这个项目，辛苦了🌹
 
->  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
+> 如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
->  [项目交流群](https://gitter.im/vue2-elm/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+> [项目交流群](https://gitter.im/vue2-elm/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
->  推荐一个 react + redux 开源项目，对react感兴趣的朋友赶紧去看看。[地址在这里](https://github.com/bailicangdu/react-pxq)
+> 推荐一个 react + redux 开源项目，对react感兴趣的朋友赶紧去看看。[地址在这里](https://github.com/bailicangdu/react-pxq)
 
->  另外一个 vue2 + vuex 的入门项目，比当前的项目简单很多，非常适合入门练习。[地址在这里](https://github.com/bailicangdu/vue2-happyfri)
-
+> 另外一个 vue2 + vuex 的入门项目，比当前的项目简单很多，非常适合入门练习。[地址在这里](https://github.com/bailicangdu/vue2-happyfri)
 
 # 效果演示
 
@@ -78,9 +75,8 @@ npm run dev
 
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/ewm.png" width="200" height="200"/>
 
-
-
 # 目标功能
+
 - [x] 定位功能 -- 完成
 - [x] 选择城市 -- 完成
 - [x] 搜索地址 -- 完成
@@ -107,8 +103,6 @@ npm run dev
 - [x] 上传头像 -- 完成
 - [ ] 付款 -- 臣妾做不到啊~~
 
-
-
 # 总结
 
 1、一般涉及到money的网页逻辑都比较复杂，尤其像饿了么这样一个开放的平台，商家和食品种类繁多，页面与页面之间交互复杂，在写到 购物车 和 下单 功能时众多的数据和逻辑一度让人很头疼，又没有设计和接口api文档，只能一步步摸索。
@@ -120,7 +114,6 @@ npm run dev
 4、曾一度怀疑，花几个月的时间做这样一个项目到底有没有意义，本来只是想做一个小项目练练手，没想到后来越写越多，不过坚持下来后我相信一切都是值得的。
 
 5、项目已经完成，共45个页面。
-
 
 # 最终目标
 
@@ -134,22 +127,15 @@ npm run dev
 
 。。。敬请期待
 
-
-
-
 # 部分截图
-
 
 ### 商铺列表页
 
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/msite.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/msite.gif" width="365" height="619"/>
 
-
 ### 商铺筛选页
 
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/>
-
-
 
 ### 餐馆食品列表与购物车
 
@@ -159,25 +145,17 @@ npm run dev
 
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/confirm1.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/confirmOrder.gif" width="365" height="619"/>
 
-
 ### 搜索页
 
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/search.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/search.gif" width="365" height="619"/>
-
 
 ### 登录页
 
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/login1.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/login.gif" width="365" height="619"/>
 
-
 ### 个人中心
 
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/profile.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/profile.gif" width="365" height="619"/>
-
-
-
-
-
 
 # 项目布局
 

@@ -11,8 +11,8 @@ jobs:
       - name: close inactive issue
         uses: actions-cool/issues-helper@v2.2.1
         with:
-          actions: 'close-issues'
-          labels: 'inactive'
+          actions: "close-issues"
+          labels: "inactive"
           inactive-day: 30
           body: |
             Since the issue was labeled with `inactive`, but no response in 30 days. This issue will be close. If you have any questions, you can comment and reply.
